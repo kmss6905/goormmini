@@ -14,6 +14,9 @@
 
 `kubectl get deployment metrics-server -n kube-system`
 
+노드의 매트릭 상태가 나오면 확인 된 것  
+`kubectl top nodes` 
+
 ---
 
 ## Cluster Autoscler
